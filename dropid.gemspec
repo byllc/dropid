@@ -4,7 +4,7 @@ require "dropid/version"
 
 Gem::Specification.new do |s|
   s.name        = "dropid"
-  s.version     = Prake::VERSION
+  s.version     = Dropid::VERSION
   s.authors     = ["Bill Chapman"]
   s.email       = ["wwchapman@gmail.com"]
   s.homepage    = ""
