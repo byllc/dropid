@@ -1,1 +1,1 @@
-###In your Rakefile add
+###This is currently just a skeleton around an old personal library
