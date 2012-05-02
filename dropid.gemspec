@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "dropid/version"
 
 Gem::Specification.new do |s|
-  s.name        = "prake"
+  s.name        = "dropid"
   s.version     = Prake::VERSION
   s.authors     = ["Bill Chapman"]
   s.email       = ["wwchapman@gmail.com"]

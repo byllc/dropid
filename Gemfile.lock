@@ -1,8 +1,7 @@
 PATH
   remote: .
   specs:
-    prake (0.0.1)
-      rake
+
 
 GEM
   remote: http://rubygems.org/
@@ -15,4 +14,3 @@ PLATFORMS
 
 DEPENDENCIES
   minitest
-  prake!
