@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "prake/version"
+require "dropid/version"
 
 Gem::Specification.new do |s|
   s.name        = "prake"
@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.authors     = ["Bill Chapman"]
   s.email       = ["wwchapman@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{ Adds easy backgrounding and pid dropping for rake }
-  s.description = %q{ Easily run rake in the background }
+  s.summary     = %q{ backgrounding and pid creation and monitoring for ruby processes}
+  s.description = %q{ }
 
-  s.rubyforge_project = "prake"
+  s.rubyforge_project = "dropid"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
