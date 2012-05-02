@@ -1,9 +1,0 @@
-#!/usr/bin/env ruby
-require "rubygems"
-gem 'rake'
-
-require 'rake'
-require 'prake'
-
-new_rake_application = Prake::Application.new
-new_rake_application.run
